@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Simon",
+    "edad": "5 años",
+    "animal": "Gato",
+    "color": "Naranjo",
+    "enfermedad": "Vomito"
+  },
+  {
+    "nombre": "Simon",
+    "edad": "5 años",
+    "animal": "Gato",
+    "color": "Naranjo",
+    "enfermedad": "Otitis"
+  },
+  {
+    "nombre": "Simon",
+    "edad": "5 años",
+    "animal": "Gato",
+    "color": "Naranjo",
+    "enfermedad": "Otitis"
+  }
+]
